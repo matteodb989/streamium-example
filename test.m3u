@@ -4,9 +4,3 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear1/pr
 
 #EXTINF:-1 tvg-id="mux-sample" tvg-logo="" group-title="Samples", Mux Test Stream
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
-#EXTINF:-1 tvg-id="bigbuckbunny" tvg-logo="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg" group-title="Samples", Big Buck Bunny
-https://test-streams.mux.dev/bbb_720p_30fps.m3u8
-
-#EXTINF:-1 tvg-id="nasa-tv" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Public TV", NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-Public/master.m3u8
