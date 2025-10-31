@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="https://epg.it/guida.xml"
+
+##### 🟢 CANALI DI TEST / PUBBLICI #####
+
+#EXTINF:-1 tvg-id="dwenglish.de" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Deutsche_Welle_logo.svg" group-title="News Internazionali",DW Englishhttps://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="euronews.eng" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Euronews_logo_2016.svg" group-title="News Internazionali",Euronews Englishhttps://rakuten-euronews-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nasa.tv" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Scienza",NASA TV (Public Domain)https://ntv1.akamaized.net/hls/live/2014075/NASA-TV-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bloomberg_TV_logo.svg" group-title="Economia",Bloomberg TVhttps://bloomberg.com/media-manifest/streams/us.m3u8
+
+##### 🟣 VIDEO DI TEST / DEMO STREAMS #####
+
+#EXTINF:-1 tvg-id="bigbuckbunny.demo" tvg-name="Big Buck Bunny" tvg-logo="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg" group-title="Video di Test",Big Buck Bunny (Blender Foundation)https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="sintel.demo" tvg-name="Sintel" tvg-logo="https://download.blender.org/durian/trailer/sintel_trailer-480p.jpg" group-title="Video di Test",Sintel (Blender Foundation)https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+
+#EXTINF:-1 tvg-id="tears-of-steel.demo" tvg-name="Tears of Steel" tvg-logo="https://mango.blender.org/wp-content/themes/mango/images/header_logo.jpg" group-title="Video di Test",Tears of Steel (Blender Foundation)https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+
+##### 🔵 CANALI ISTITUZIONALI #####
+
+#EXTINF:-1 tvg-id="senato.italia" tvg-name="Senato TV" tvg-logo="https://www.senato.it/resources/cms/images/senato_logo.svg" group-title="Istituzionali",Senato TVhttps://senatoweb.streaming.fastweb.it/senato/smil:senato.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="camera.italia" tvg-name="Camera dei Deputati" tvg-logo="https://www.camera.it/application/xmanager/projects/camera/img/logo_camera.png" group-title="Istituzionali",Camera dei Deputati TVhttps://webtv.camera.it/webtv_hls/live.m3u8
