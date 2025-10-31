@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1,Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?noConvert=true
+
+#EXTINF:-1,Sintel
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+
+#EXTINF:-1,Tears of Steel
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1,Apple Test Stream
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8?noConvertTs=true
+
+#EXTINF:-1,Big Buck Bunny MP4
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4?noConvertTs=true
+
+#EXTINF:-1,Elephant's Dream
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4?noConvertTs=true
+
+#EXTINF:-1,For Bigger Blazes
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4?noConvertTs=true
+
+#EXTINF:-1,For Bigger Escape
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4?noConvertTs=true
+
+#EXTINF:-1,For Bigger Fun
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4?noConvertTs=true
+
+#EXTINF:-1,For Bigger Joyrides
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4?noConvertTs=true
+
+#EXTINF:-1,Subaru Outback
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4?noConvertTs=true
+
+#EXTINF:-1,Volkswagen GTI
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4?noConvertTs=true
+
+#EXTINF:-1,We Are Going On Bullrun
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4?noConvertTs=true
+
+#EXTINF:-1,What Care Can You Get For A Grand
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4?noConvertTs=true
