@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en"
+#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?lang=en"
 #EXTINF:-1 tvg-id="369632" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Deutsche_Welle_logo.svg" group-title="International News",DW Englishhttps://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Euronews_logo_2016.svg" group-title="International News",Euronews Englishhttps://rakuten-euronews-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="nasa.tv" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Science",NASA TV (Public Domain)https://ntv1.akamaized.net/hls/live/2014075/NASA-TV-HLS/master.m3u8
