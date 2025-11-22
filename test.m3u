@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8?noConvert=true
+
 #EXTINF:-1,Sintel
 https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8?noConvertTs=true
 
@@ -35,6 +38,3 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIRe
 
 #EXTINF:-1,We Are Going On Bullrun
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4?noConvertTs=true
-
-#EXTINF:-1,What Care Can You Get For A Grand
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4?noConvertTs=true
