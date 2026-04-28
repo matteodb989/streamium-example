@@ -1,43 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1,JW Player HLS Test
-https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?noConvert=true
+#EXTINF:-1,Sample MP4 - BigBuckBunny
+https://drive.google.com/file/d/1IDH57BL0alkK_sjWKYH_GZlwWOmhO8Vm/view?usp=drive_link&noConvertTs=true
 
-#EXTINF:-1,Sample MP4 - SampleLib
-https://samplelib.com/lib/preview/mp4/sample-5s.mp4?noConvertTs=true
+#EXTINF:-1,Sample MP4 - FreeTest
+https://drive.google.com/file/d/1Nick1QmcczE1agVV4YdDQ_0o0ezLxIa2/view?usp=drive_link&noConvertTs=true
 
-#EXTINF:-1,W3Schools Sample
-https://www.w3schools.com/html/mov_bbb.mp4?noConvertTs=true
+#EXTINF:-1,Sample MP4 - SampleLib1
+https://drive.google.com/file/d/1DNGwk8ORj85xU25233vDTQHF9vAw1DEk/view?usp=drive_link&noConvertTs=true
 
-#EXTINF:-1,Mozilla Sample
-https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4
+#EXTINF:-1,Sample MP4 - SampleLib2
+https://drive.google.com/file/d/1Gf_z0A3WaCxx-19EPce3RFOffccRN0dF/view?usp=drive_link&noConvertTs=true
 
-#EXTINF:-1,Blender Demo (WebM/MP4)
-https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.720p.vp9.webm?noConvertTs=true
+#EXTINF:-1,Sample MP4 - SampleLib3
+https://drive.google.com/file/d/1k8qnQtmVy_nRgvPCrenEuT8VN8o5EA7i/view?usp=drive_link&noConvertTs=true
 
-#EXTINF:-1,Elephant's Dream
-https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.720p.vp9.webm?noConvertTs=true
+#EXTINF:-1,Sample MP4 - SampleLib4
+https://drive.google.com/file/d/1UTO_pEJyYKktoUi_P5unX3dEk8oLzwFL/view?usp=drive_link&noConvertTs=true
 
-#EXTINF:-1,For Bigger Blazes
-https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.720p.vp9.webm?noConvertTs=true
-
-#EXTINF:-1,For Bigger Escape
-https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.720p.vp9.webm?noConvertTs=true
-
-#EXTINF:-1,For Bigger Fun
-https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.720p.vp9.webm?noConvertTs=true
-
-#EXTINF:-1,For Bigger Joyrides
-https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.720p.vp9.webm?noConvertTs=true
-
-#EXTINF:-1,Subaru Outback
-https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.720p.vp9.webm?noConvertTs=true
-
-#EXTINF:-1,Volkswagen GTI
-https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.720p.vp9.webm?noConvertTs=true
-
-#EXTINF:-1,We Are Going On Bullrun
-https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.720p.vp9.webm?noConvertTs=true
-
-#EXTINF:-1,What Care Can You Get For A Grand
-https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Big_Buck_Bunny_4K.webm/Big_Buck_Bunny_4K.webm.720p.vp9.webm?noConvertTs=true
+#EXTINF:-1,Sample MP4 - SampleLib5
+https://drive.google.com/file/d/139efV3EeEfjfFjx-AdrPXNQwC3NfeIXu/view?usp=drive_link&noConvertTs=true
