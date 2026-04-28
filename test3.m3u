@@ -1,19 +1,22 @@
-#EXTM3U url-tvg="https://epg.it/guida.xml"
-#EXTINF:-1 tvg-id="bigbuckbunny1.demo" tvg-name="Big Buck Bunny 1" tvg-logo="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg" group-title="Test Video 1",Big Buck Bunny (Blender Foundation)
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="bigbuckbunny2.demo" tvg-name="Big Buck Bunny 2" tvg-logo="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg" group-title="Test Video 2",Big Buck Bunny (Blender Foundation)
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-name="Big Buck Bunny 3" tvg-logo="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg" group-title="Test Video 3",Big Buck Bunny (Blender Foundation)
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="sintel.demo1" tvg-name="Sintel 1" tvg-logo="https://download.blender.org/durian/trailer/sintel_trailer-480p.jpg" group-title="Test Video 1",Sintel (Blender Foundation)
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
-#EXTINF:-1 tvg-id="sintel.demo2" tvg-name="Sintel 2" tvg-logo="https://download.blender.org/durian/trailer/sintel_trailer-480p.jpg" group-title="Test Video 2",Sintel (Blender Foundation)
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
-#EXTINF:-1 tvg-name="Sintel 3" tvg-logo="https://download.blender.org/durian/trailer/sintel_trailer-480p.jpg" group-title="Test Video 3",Sintel (Blender Foundation)
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
-#EXTINF:-1 tvg-id="tears-of-steel.demo1" tvg-name="Tears of Steel 1" tvg-logo="https://mango.blender.org/wp-content/themes/mango/images/header_logo.jpg" group-title="Test Video 1",Tears of Steel (Blender Foundation)
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
-#EXTINF:-1 tvg-id="tears-of-steel.demo2" tvg-name="Tears of Steel 2" tvg-logo="https://mango.blender.org/wp-content/themes/mango/images/header_logo.jpg" group-title="Test Video 3",Tears of Steel (Blender Foundation)
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
-#EXTINF:-1 tvg-name="Tears of Steel 3" tvg-logo="https://mango.blender.org/wp-content/themes/mango/images/header_logo.jpg" group-title="Test Video 3",Tears of Steel (Blender Foundation)
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+#EXTM3U
+
+#EXTINF:-1,Sample MP4 - BigBuckBunny
+https://drive.google.com/uc?export=download&id=1IDH57BL0alkK_sjWKYH_GZlwWOmhO8Vm&noConvertTs=true
+
+#EXTINF:-1,Sample MP4 - FreeTest
+https://drive.google.com/uc?export=download&id=1Nick1QmcczE1agVV4YdDQ_0o0ezLxIa2&noConvertTs=true
+
+#EXTINF:-1,Sample MP4 - SampleLib1
+https://drive.google.com/uc?export=download&id=1DNGwk8ORj85xU25233vDTQHF9vAw1DEk&noConvertTs=true
+
+#EXTINF:-1,Sample MP4 - SampleLib2
+https://drive.google.com/uc?export=download&id=1Gf_z0A3WaCxx-19EPce3RFOffccRN0dF&noConvertTs=true
+
+#EXTINF:-1,Sample MP4 - SampleLib3
+https://drive.google.com/uc?export=download&id=1k8qnQtmVy_nRgvPCrenEuT8VN8o5EA7i&noConvertTs=true
+
+#EXTINF:-1,Sample MP4 - SampleLib4
+https://drive.google.com/uc?export=download&id=1UTO_pEJyYKktoUi_P5unX3dEk8oLzwFL&noConvertTs=true
+
+#EXTINF:-1,Sample MP4 - SampleLib5
+https://drive.google.com/uc?export=download&id=139efV3EeEfjfFjx-AdrPXNQwC3NfeIXu&noConvertTs=true
